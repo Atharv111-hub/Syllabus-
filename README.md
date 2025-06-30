@@ -1,70 +1,40 @@
-Q1. You're developing a Python program to handle string operations for managing user input. Implement the following functionalities:
+Write a Python Program to Interchange First and Last Elements of in a List
+
+2: Write a Python Program to Remove Multiple Empty Strings from a List of Strings
+
+3: Write a Python Program to Split a List in Half and Store the Elements in Two Different Lists
 
 
 
-1.	Remove duplicate characters from a string while preserving the original order.
-
-2.	Check if a string is a palindrome.
-
-3.	Count the occurrences of each character in a string and store them in a dictionary.
-
-4.	Reverse words in a sentence while maintaining the order of words.
+4: Write a Python Program to Remove All Occurrences of an Element from a Given List
 
 
 
-
-
-Q2.  You are developing a program to clean and preprocess text data. Write a Python function to remove leading and trailing whitespaces from a given string.
-
+5: Write a Python Program to Remove Negative Values from a List With Filter() Function
 
 
 
+6: Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings
 
-Q3. You are building a program to analyse text data. Implement a Python function to extract all email addresses from a given text string.
+Sample Output
 
+['abc', 'xyz', 'aba', '1221']
 
+First and Last Character are same : 2
 
+7:  Write a Python program to shuffle and print a specified list (shuffle)
 
+Sample Output
 
-Q4.  You are developing a password strength checker program. Write a Python function to determine the strength of a given password based on the following criteria:
+["Cat", "Dog", "Elephant", "Fox", "Tiger", "Lion", "Ponda"]
 
-
-
-1.	At least 8 characters long
-
-2.	Contains at least one uppercase letter, one lowercase letter, one digit, and one special character.
-
-
-
-
-
-Q5.  You are working on a program to process user input for a search feature. Implement a Python function to extract all words from a given text string, excluding punctuation marks.
+['Fox', 'Cat', 'Tiger', 'Lion', 'Dog', 'Ponda', 'Elephant']
 
 
 
-
-
-Q6.  You are developing a program to format phone numbers. Write a Python function to format a given string as a phone number in the format (XXX) XXX-XXXX.
-
-
-
-Q7.  You are developing a program to process user input. Implement a Python function to find the most frequent word in a given text string.
+8: Write a program  to remove repetitive items from a list.
 
 
 
-
-
-Q8.  You are building a program to process text data. Write a Python function to find the longest substring of consecutive vowels in a given string.
-
-
-
-Q9.  You are creating a program to generate usernames based on email addresses. Implement a Python function to extract the username from a given email address.
-
-
-
-
-
-Q10.  You are developing a text processing tool that requires identifying the most common word in a given text. Implement a Python function to find the most frequent word in a text string, excluding common stop words such as "the", "is", "and", etc.
-
-
+9- Find the longest words in a list of words.
 
